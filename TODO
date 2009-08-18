@@ -1,0 +1,14 @@
+TODO list:
+
+ - show help if nothing passed
+ - Improve output formatting
+ - Allow display of single value (quater note delay only, for example)
+ - Allow display of all values, or indiviual groups (standard, dotted, triplet)
+ - English note names (quaver,etc.)
+ - allow user selectable config file (-i?)
+ - allow user to name output file
+ - use getopt (flags with no values [-d] must come first)
+   currently can't combine flags (-oV)
+ - GUI
+ - change Makefile to write binary to directory in $PATH
+ - man page
