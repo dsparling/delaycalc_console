@@ -29,7 +29,13 @@ int main (int argc, char **argv)
 {
 
   // check for parameters
-  param_init(argc,argv);
+  if (argc > 1)
+  {
+    param_init(argc,argv);
+  } 
+  else {
+    print_help = true;
+  }
 
   // create object
   DelayCalculator DC;

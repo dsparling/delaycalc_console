@@ -8,7 +8,7 @@ using namespace std;
 
 // constants
 const string PROGRAM_NAME = "delaycalc";
-const string VERSION_NUMBER = "0.01";
+const string VERSION_NUMBER = "0.02";
 
 // vars
 

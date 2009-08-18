@@ -1,3 +1,4 @@
 v 0.01 (Sept 9, 2005) 
   + Initial Release
-
+v 0.02 (Aug 17, 2009)
+  + Added check for zero params and display help
