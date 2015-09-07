@@ -1,5 +1,5 @@
-delaycalc_console
-=================
+delaycalc
+=========
 
 delaycalc is a simple console delay calculator for Linux.
 
