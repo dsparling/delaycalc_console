@@ -5,19 +5,23 @@ delaycalc is a simple console delay calculator for Linux.
 
 License
 -------
+
 GNU/GPL copying rules apply, see COPYING
 
 Compilation
 -----------
+
 Go into fretcalc source directory and type 'make'.
 It should compile without errors.
 
 Installation
 ------------
+
 Currently running make will produce a single binary in the source directory. You may put it anywhere you want. 
 
 Running
 -------
+
     $ delaycalc -b <bpm>
     
     OPTIONS: 
