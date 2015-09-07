@@ -213,7 +213,7 @@ void DelayCalculator::printVersion()
 
 void DelayCalculator::printWarranty()
 {
-  cout << "  Copyright (c) 2005 by" << endl;
+  cout << "  Copyright (c) 2005-2015 by" << endl;
   cout << "  Douglas S Sparling <doug@dougsparling.com>" << endl;
   cout << endl;
   cout << "    This program is free software; you can redistribute it and/or" << endl;
